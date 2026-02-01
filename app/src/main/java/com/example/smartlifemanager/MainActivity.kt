@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             SmartLifeManagerTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-
+  
                 }
             }
         }
