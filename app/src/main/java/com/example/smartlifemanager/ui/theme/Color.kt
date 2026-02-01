@@ -25,6 +25,6 @@ val AccentRoseDark = Color(0xFFF8BBD9)
 val AccentAmberDark = Color(0xFFFFD54F)
 
 // ============ SHARED (on-primary, outlines, etc.) ============
-val OnPrimary = Color(0xFFFFFFFF)         
+val OnPrimary = Color(0xFFFFFFFF)
 val OutlineLight = Color(0xFFDEE2E6)
 val OutlineDark = Color(0xFF495057)
