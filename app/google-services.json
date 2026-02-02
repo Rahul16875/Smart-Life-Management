@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480596822754",
+    "project_id": "smartlifemanagement-7e768",
+    "storage_bucket": "smartlifemanagement-7e768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480596822754:android:61cf8ff466276cc7a26cbb",
+        "android_client_info": {
+          "package_name": "com.example.smartlifemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm_Lp6eFGqcE-Hq2nj6W2AIktWvg4uq-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
